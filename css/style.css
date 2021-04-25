@@ -1,8 +1,16 @@
 li{
 	background-color:white;
+	color:#3D58A6;
+	font-size:22px;
 	display:inline-block;
 	margin:5px;
 	vertical-align:middle;
+}
+.active{
+	color:#EE4036;
+}
+.navbar-li{
+	color:#3D58A6;
 }
 .disflay, nav{
 	display: inline-block;
